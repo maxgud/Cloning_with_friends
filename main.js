@@ -1,4 +1,4 @@
-// Brian 
+// Max test
 
 document.addEventListener("DOMContentLoaded", function(){
   //variables
