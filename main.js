@@ -1,3 +1,5 @@
+// Brian 
+
 document.addEventListener("DOMContentLoaded", function(){
   //variables
   var player
