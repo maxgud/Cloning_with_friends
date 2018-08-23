@@ -10,7 +10,6 @@ document.addEventListener("DOMContentLoaded", function(){
   var ballPosition
   var userGuess
 
-  //this will be deleted Max / Sam / Brian
 
   name.addEventListener('keyup', function(event){
     if (event.target.value !== '') {
